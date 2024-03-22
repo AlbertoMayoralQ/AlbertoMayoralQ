@@ -5,7 +5,7 @@
   <img align="left" alt="Alberto's LinkdeIn" width="34px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.instagram.com/alberto.mq/">
+<a href="https://www.instagram.com/mayoral.dev/">
   <img align="left" alt="Alberto's Instagram" width="34px" src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Soy  *Estudiante de Ingenieria en Sistemas* amante del desarrollo Front-end 👨🏽‍💻
+Soy  *Ingenierio en Informatica* amante del desarrollo Front-end 👨🏽‍💻
 
 
 **About Me!**
