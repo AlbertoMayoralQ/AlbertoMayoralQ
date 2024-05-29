@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Soy  *Ingenierio en Informatica* amante del desarrollo Front-end 👨🏽‍💻
+Soy  *Ingenierio en Informatica* amante del desarrollo Frontend 👨🏽‍💻
 
 
 **About Me!**
