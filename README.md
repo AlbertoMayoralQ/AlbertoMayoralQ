@@ -20,7 +20,7 @@ Soy  *Ingenierio en Informatica* amante del desarrollo Front-end 👨🏽‍💻
   <img align="right" alt="GIF" src="https://www.codedex.io/api/petStatus?user=mayoralDev" />
 
 
-- 🌱 Aprendiendo y explorando todo lo que tenga que ver con Front-end 
+- 🌱 Aprendiendo y explorando constantemente a cerca de Frontend 
 - 🎮 Mi hobbie favorito es jugar videojuegos
 - 📫 Mi correo 👉🏼 [jesus99_mq@outlook.es](mailto:jesus99_mq@outlook.es) 👈🏼
 - 📝 Mira mi [CV](https://drive.google.com/file/d/1lxRlzdCc8R184doLlhujKtvGqGw_gdqQ/view?usp=drive_link) para tener mas info.
